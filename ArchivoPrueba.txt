@@ -1,0 +1,2 @@
+Este es un archivo de prueba que probablemente solo va a servir para demostrar como funciona el control
+de versiones de Git. Si estoy en lo correcto me merezco una galleta.
