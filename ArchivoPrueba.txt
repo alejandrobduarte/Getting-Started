@@ -9,3 +9,4 @@ debe de funcionar :)
 
 ok ahora vamos a probar este pedo del merge para ver como funciona al 
 fusionar todo este pedo con el master, arre? ARRE.
+a ber ahora vamos a calarlo de la otra manera, dejando el codigo original en el merge fallido
